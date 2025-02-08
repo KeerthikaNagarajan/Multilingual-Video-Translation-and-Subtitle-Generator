@@ -1,1 +1,1 @@
-# -Multilingual-Video-Translation-and-Subtitle-Generator
+# Multilingual Video Translation and Subtitle Generator
